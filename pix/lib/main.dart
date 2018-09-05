@@ -1,4 +1,5 @@
 // 1. Import a helper library from flutter to get content on the screen
+import 'package:flutter/material.dart';
 
 // 2. Define a 'main' function to run when the app starts
 
