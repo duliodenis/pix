@@ -7,6 +7,11 @@ void main() {
       appBar: AppBar(
         title: Text('Lets see some images!'), 
       ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: () {
+          print('Floating Action Button Tapped');
+        },
+      ),
     ),
   );
 
