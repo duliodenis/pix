@@ -8,6 +8,7 @@ void main() {
         title: Text('Lets see some images!'), 
       ),
       floatingActionButton: FloatingActionButton(
+        child: Icon(Icons.add),
         onPressed: () {
           print('Floating Action Button Tapped');
         },
